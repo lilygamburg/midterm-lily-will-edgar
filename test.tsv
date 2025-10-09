@@ -1,0 +1,501 @@
+sentid	pairid	construction	language	comparison	sentence
+1	1	VP Coordination (long)	fr	expected	l' auteur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+2	1	VP Coordination (long)	fr	unexpected	l' auteur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+3	2	VP Coordination (long)	fr	expected	l' auteur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+4	2	VP Coordination (long)	fr	unexpected	l' auteur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+5	3	VP Coordination (long)	fr	expected	l' auteur connaît beaucoup de langues étrangères et a vingt trois ans
+6	3	VP Coordination (long)	fr	unexpected	l' auteur connaît beaucoup de langues étrangères et ont vingt trois ans
+7	4	VP Coordination (long)	fr	expected	l' auteur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+8	4	VP Coordination (long)	fr	unexpected	l' auteur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+9	5	VP Coordination (long)	fr	expected	l' auteur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+10	5	VP Coordination (long)	fr	unexpected	l' auteur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+11	6	VP Coordination (long)	fr	expected	le directeur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+12	6	VP Coordination (long)	fr	unexpected	le directeur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+13	7	VP Coordination (long)	fr	expected	le directeur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+14	7	VP Coordination (long)	fr	unexpected	le directeur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+15	8	VP Coordination (long)	fr	expected	le directeur connaît beaucoup de langues étrangères et a vingt trois ans
+16	8	VP Coordination (long)	fr	unexpected	le directeur connaît beaucoup de langues étrangères et ont vingt trois ans
+17	9	VP Coordination (long)	fr	expected	le directeur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+18	9	VP Coordination (long)	fr	unexpected	le directeur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+19	10	VP Coordination (long)	fr	expected	le directeur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+20	10	VP Coordination (long)	fr	unexpected	le directeur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+21	11	VP Coordination (long)	fr	expected	l' agriculteur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+22	11	VP Coordination (long)	fr	unexpected	l' agriculteur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+23	12	VP Coordination (long)	fr	expected	l' agriculteur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+24	12	VP Coordination (long)	fr	unexpected	l' agriculteur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+25	13	VP Coordination (long)	fr	expected	l' agriculteur connaît beaucoup de langues étrangères et a vingt trois ans
+26	13	VP Coordination (long)	fr	unexpected	l' agriculteur connaît beaucoup de langues étrangères et ont vingt trois ans
+27	14	VP Coordination (long)	fr	expected	l' agriculteur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+28	14	VP Coordination (long)	fr	unexpected	l' agriculteur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+29	15	VP Coordination (long)	fr	expected	l' agriculteur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+30	15	VP Coordination (long)	fr	unexpected	l' agriculteur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+31	16	VP Coordination (long)	fr	expected	le chirurgien connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+32	16	VP Coordination (long)	fr	unexpected	le chirurgien connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+33	17	VP Coordination (long)	fr	expected	le chirurgien connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+34	17	VP Coordination (long)	fr	unexpected	le chirurgien connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+35	18	VP Coordination (long)	fr	expected	le chirurgien connaît beaucoup de langues étrangères et a vingt trois ans
+36	18	VP Coordination (long)	fr	unexpected	le chirurgien connaît beaucoup de langues étrangères et ont vingt trois ans
+37	19	VP Coordination (long)	fr	expected	le chirurgien connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+38	19	VP Coordination (long)	fr	unexpected	le chirurgien connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+39	20	VP Coordination (long)	fr	expected	le chirurgien connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+40	20	VP Coordination (long)	fr	unexpected	le chirurgien connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+41	21	VP Coordination (long)	fr	expected	le sénateur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+42	21	VP Coordination (long)	fr	unexpected	le sénateur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+43	22	VP Coordination (long)	fr	expected	le sénateur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+44	22	VP Coordination (long)	fr	unexpected	le sénateur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+45	23	VP Coordination (long)	fr	expected	le sénateur connaît beaucoup de langues étrangères et a vingt trois ans
+46	23	VP Coordination (long)	fr	unexpected	le sénateur connaît beaucoup de langues étrangères et ont vingt trois ans
+47	24	VP Coordination (long)	fr	expected	le sénateur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+48	24	VP Coordination (long)	fr	unexpected	le sénateur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+49	25	VP Coordination (long)	fr	expected	le sénateur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+50	25	VP Coordination (long)	fr	unexpected	le sénateur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+51	26	VP Coordination (long)	fr	expected	le professeur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+52	26	VP Coordination (long)	fr	unexpected	le professeur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+53	27	VP Coordination (long)	fr	expected	le professeur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+54	27	VP Coordination (long)	fr	unexpected	le professeur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+55	28	VP Coordination (long)	fr	expected	le professeur connaît beaucoup de langues étrangères et a vingt trois ans
+56	28	VP Coordination (long)	fr	unexpected	le professeur connaît beaucoup de langues étrangères et ont vingt trois ans
+57	29	VP Coordination (long)	fr	expected	le professeur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+58	29	VP Coordination (long)	fr	unexpected	le professeur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+59	30	VP Coordination (long)	fr	expected	le professeur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+60	30	VP Coordination (long)	fr	unexpected	le professeur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+61	31	VP Coordination (long)	fr	expected	le client connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+62	31	VP Coordination (long)	fr	unexpected	le client connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+63	32	VP Coordination (long)	fr	expected	le client connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+64	32	VP Coordination (long)	fr	unexpected	le client connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+65	33	VP Coordination (long)	fr	expected	le client connaît beaucoup de langues étrangères et a vingt trois ans
+66	33	VP Coordination (long)	fr	unexpected	le client connaît beaucoup de langues étrangères et ont vingt trois ans
+67	34	VP Coordination (long)	fr	expected	le client connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+68	34	VP Coordination (long)	fr	unexpected	le client connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+69	35	VP Coordination (long)	fr	expected	le client connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+70	35	VP Coordination (long)	fr	unexpected	le client connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+71	36	VP Coordination (long)	fr	expected	l' officier connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+72	36	VP Coordination (long)	fr	unexpected	l' officier connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+73	37	VP Coordination (long)	fr	expected	l' officier connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+74	37	VP Coordination (long)	fr	unexpected	l' officier connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+75	38	VP Coordination (long)	fr	expected	l' officier connaît beaucoup de langues étrangères et a vingt trois ans
+76	38	VP Coordination (long)	fr	unexpected	l' officier connaît beaucoup de langues étrangères et ont vingt trois ans
+77	39	VP Coordination (long)	fr	expected	l' officier connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+78	39	VP Coordination (long)	fr	unexpected	l' officier connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+79	40	VP Coordination (long)	fr	expected	l' officier connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+80	40	VP Coordination (long)	fr	unexpected	l' officier connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+81	41	VP Coordination (long)	fr	expected	le pilote connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+82	41	VP Coordination (long)	fr	unexpected	le pilote connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+83	42	VP Coordination (long)	fr	expected	le pilote connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+84	42	VP Coordination (long)	fr	unexpected	le pilote connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+85	43	VP Coordination (long)	fr	expected	le pilote connaît beaucoup de langues étrangères et a vingt trois ans
+86	43	VP Coordination (long)	fr	unexpected	le pilote connaît beaucoup de langues étrangères et ont vingt trois ans
+87	44	VP Coordination (long)	fr	expected	le pilote connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+88	44	VP Coordination (long)	fr	unexpected	le pilote connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+89	45	VP Coordination (long)	fr	expected	le pilote connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+90	45	VP Coordination (long)	fr	unexpected	le pilote connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+91	46	VP Coordination (long)	fr	expected	le consultant connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+92	46	VP Coordination (long)	fr	unexpected	le consultant connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+93	47	VP Coordination (long)	fr	expected	le consultant connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+94	47	VP Coordination (long)	fr	unexpected	le consultant connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+95	48	VP Coordination (long)	fr	expected	le consultant connaît beaucoup de langues étrangères et a vingt trois ans
+96	48	VP Coordination (long)	fr	unexpected	le consultant connaît beaucoup de langues étrangères et ont vingt trois ans
+97	49	VP Coordination (long)	fr	expected	le consultant connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+98	49	VP Coordination (long)	fr	unexpected	le consultant connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+99	50	VP Coordination (long)	fr	expected	le consultant connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+100	50	VP Coordination (long)	fr	unexpected	le consultant connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+101	51	VP Coordination (long)	fr	expected	l' auteur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+102	51	VP Coordination (long)	fr	unexpected	l' auteur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+103	52	VP Coordination (long)	fr	expected	l' auteur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+104	52	VP Coordination (long)	fr	unexpected	l' auteur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+105	53	VP Coordination (long)	fr	expected	l' auteur aime regarder des émissions de télévision et a vingt trois ans
+106	53	VP Coordination (long)	fr	unexpected	l' auteur aime regarder des émissions de télévision et ont vingt trois ans
+107	54	VP Coordination (long)	fr	expected	l' auteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+108	54	VP Coordination (long)	fr	unexpected	l' auteur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+109	55	VP Coordination (long)	fr	expected	l' auteur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+110	55	VP Coordination (long)	fr	unexpected	l' auteur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+111	56	VP Coordination (long)	fr	expected	le directeur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+112	56	VP Coordination (long)	fr	unexpected	le directeur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+113	57	VP Coordination (long)	fr	expected	le directeur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+114	57	VP Coordination (long)	fr	unexpected	le directeur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+115	58	VP Coordination (long)	fr	expected	le directeur aime regarder des émissions de télévision et a vingt trois ans
+116	58	VP Coordination (long)	fr	unexpected	le directeur aime regarder des émissions de télévision et ont vingt trois ans
+117	59	VP Coordination (long)	fr	expected	le directeur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+118	59	VP Coordination (long)	fr	unexpected	le directeur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+119	60	VP Coordination (long)	fr	expected	le directeur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+120	60	VP Coordination (long)	fr	unexpected	le directeur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+121	61	VP Coordination (long)	fr	expected	l' agriculteur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+122	61	VP Coordination (long)	fr	unexpected	l' agriculteur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+123	62	VP Coordination (long)	fr	expected	l' agriculteur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+124	62	VP Coordination (long)	fr	unexpected	l' agriculteur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+125	63	VP Coordination (long)	fr	expected	l' agriculteur aime regarder des émissions de télévision et a vingt trois ans
+126	63	VP Coordination (long)	fr	unexpected	l' agriculteur aime regarder des émissions de télévision et ont vingt trois ans
+127	64	VP Coordination (long)	fr	expected	l' agriculteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+128	64	VP Coordination (long)	fr	unexpected	l' agriculteur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+129	65	VP Coordination (long)	fr	expected	l' agriculteur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+130	65	VP Coordination (long)	fr	unexpected	l' agriculteur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+131	66	VP Coordination (long)	fr	expected	le chirurgien aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+132	66	VP Coordination (long)	fr	unexpected	le chirurgien aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+133	67	VP Coordination (long)	fr	expected	le chirurgien aime regarder des émissions de télévision et aime regarder des émissions de télévision
+134	67	VP Coordination (long)	fr	unexpected	le chirurgien aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+135	68	VP Coordination (long)	fr	expected	le chirurgien aime regarder des émissions de télévision et a vingt trois ans
+136	68	VP Coordination (long)	fr	unexpected	le chirurgien aime regarder des émissions de télévision et ont vingt trois ans
+137	69	VP Coordination (long)	fr	expected	le chirurgien aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+138	69	VP Coordination (long)	fr	unexpected	le chirurgien aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+139	70	VP Coordination (long)	fr	expected	le chirurgien aime regarder des émissions de télévision et écrit dans un journal tous les jours
+140	70	VP Coordination (long)	fr	unexpected	le chirurgien aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+141	71	VP Coordination (long)	fr	expected	le sénateur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+142	71	VP Coordination (long)	fr	unexpected	le sénateur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+143	72	VP Coordination (long)	fr	expected	le sénateur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+144	72	VP Coordination (long)	fr	unexpected	le sénateur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+145	73	VP Coordination (long)	fr	expected	le sénateur aime regarder des émissions de télévision et a vingt trois ans
+146	73	VP Coordination (long)	fr	unexpected	le sénateur aime regarder des émissions de télévision et ont vingt trois ans
+147	74	VP Coordination (long)	fr	expected	le sénateur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+148	74	VP Coordination (long)	fr	unexpected	le sénateur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+149	75	VP Coordination (long)	fr	expected	le sénateur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+150	75	VP Coordination (long)	fr	unexpected	le sénateur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+151	76	VP Coordination (long)	fr	expected	le professeur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+152	76	VP Coordination (long)	fr	unexpected	le professeur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+153	77	VP Coordination (long)	fr	expected	le professeur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+154	77	VP Coordination (long)	fr	unexpected	le professeur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+155	78	VP Coordination (long)	fr	expected	le professeur aime regarder des émissions de télévision et a vingt trois ans
+156	78	VP Coordination (long)	fr	unexpected	le professeur aime regarder des émissions de télévision et ont vingt trois ans
+157	79	VP Coordination (long)	fr	expected	le professeur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+158	79	VP Coordination (long)	fr	unexpected	le professeur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+159	80	VP Coordination (long)	fr	expected	le professeur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+160	80	VP Coordination (long)	fr	unexpected	le professeur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+161	81	VP Coordination (long)	fr	expected	le client aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+162	81	VP Coordination (long)	fr	unexpected	le client aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+163	82	VP Coordination (long)	fr	expected	le client aime regarder des émissions de télévision et aime regarder des émissions de télévision
+164	82	VP Coordination (long)	fr	unexpected	le client aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+165	83	VP Coordination (long)	fr	expected	le client aime regarder des émissions de télévision et a vingt trois ans
+166	83	VP Coordination (long)	fr	unexpected	le client aime regarder des émissions de télévision et ont vingt trois ans
+167	84	VP Coordination (long)	fr	expected	le client aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+168	84	VP Coordination (long)	fr	unexpected	le client aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+169	85	VP Coordination (long)	fr	expected	le client aime regarder des émissions de télévision et écrit dans un journal tous les jours
+170	85	VP Coordination (long)	fr	unexpected	le client aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+171	86	VP Coordination (long)	fr	expected	l' officier aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+172	86	VP Coordination (long)	fr	unexpected	l' officier aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+173	87	VP Coordination (long)	fr	expected	l' officier aime regarder des émissions de télévision et aime regarder des émissions de télévision
+174	87	VP Coordination (long)	fr	unexpected	l' officier aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+175	88	VP Coordination (long)	fr	expected	l' officier aime regarder des émissions de télévision et a vingt trois ans
+176	88	VP Coordination (long)	fr	unexpected	l' officier aime regarder des émissions de télévision et ont vingt trois ans
+177	89	VP Coordination (long)	fr	expected	l' officier aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+178	89	VP Coordination (long)	fr	unexpected	l' officier aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+179	90	VP Coordination (long)	fr	expected	l' officier aime regarder des émissions de télévision et écrit dans un journal tous les jours
+180	90	VP Coordination (long)	fr	unexpected	l' officier aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+181	91	VP Coordination (long)	fr	expected	le pilote aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+182	91	VP Coordination (long)	fr	unexpected	le pilote aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+183	92	VP Coordination (long)	fr	expected	le pilote aime regarder des émissions de télévision et aime regarder des émissions de télévision
+184	92	VP Coordination (long)	fr	unexpected	le pilote aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+185	93	VP Coordination (long)	fr	expected	le pilote aime regarder des émissions de télévision et a vingt trois ans
+186	93	VP Coordination (long)	fr	unexpected	le pilote aime regarder des émissions de télévision et ont vingt trois ans
+187	94	VP Coordination (long)	fr	expected	le pilote aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+188	94	VP Coordination (long)	fr	unexpected	le pilote aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+189	95	VP Coordination (long)	fr	expected	le pilote aime regarder des émissions de télévision et écrit dans un journal tous les jours
+190	95	VP Coordination (long)	fr	unexpected	le pilote aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+191	96	VP Coordination (long)	fr	expected	le consultant aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+192	96	VP Coordination (long)	fr	unexpected	le consultant aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+193	97	VP Coordination (long)	fr	expected	le consultant aime regarder des émissions de télévision et aime regarder des émissions de télévision
+194	97	VP Coordination (long)	fr	unexpected	le consultant aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+195	98	VP Coordination (long)	fr	expected	le consultant aime regarder des émissions de télévision et a vingt trois ans
+196	98	VP Coordination (long)	fr	unexpected	le consultant aime regarder des émissions de télévision et ont vingt trois ans
+197	99	VP Coordination (long)	fr	expected	le consultant aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+198	99	VP Coordination (long)	fr	unexpected	le consultant aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+199	100	VP Coordination (long)	fr	expected	le consultant aime regarder des émissions de télévision et écrit dans un journal tous les jours
+200	100	VP Coordination (long)	fr	unexpected	le consultant aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+201	101	VP Coordination (long)	fr	expected	l' auteur a vingt trois ans et connaît beaucoup de langues étrangères
+202	101	VP Coordination (long)	fr	unexpected	l' auteur a vingt trois ans et connaissent beaucoup de langues étrangères
+203	102	VP Coordination (long)	fr	expected	l' auteur a vingt trois ans et aime regarder des émissions de télévision
+204	102	VP Coordination (long)	fr	unexpected	l' auteur a vingt trois ans et aiment regarder des émissions de télévision
+205	103	VP Coordination (long)	fr	expected	l' auteur a vingt trois ans et a vingt trois ans
+206	103	VP Coordination (long)	fr	unexpected	l' auteur a vingt trois ans et ont vingt trois ans
+207	104	VP Coordination (long)	fr	expected	l' auteur a vingt trois ans et préfère jouer au tennis avec des collègues
+208	104	VP Coordination (long)	fr	unexpected	l' auteur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+209	105	VP Coordination (long)	fr	expected	l' auteur a vingt trois ans et écrit dans un journal tous les jours
+210	105	VP Coordination (long)	fr	unexpected	l' auteur a vingt trois ans et écrivent dans un journal tous les jours
+211	106	VP Coordination (long)	fr	expected	le directeur a vingt trois ans et connaît beaucoup de langues étrangères
+212	106	VP Coordination (long)	fr	unexpected	le directeur a vingt trois ans et connaissent beaucoup de langues étrangères
+213	107	VP Coordination (long)	fr	expected	le directeur a vingt trois ans et aime regarder des émissions de télévision
+214	107	VP Coordination (long)	fr	unexpected	le directeur a vingt trois ans et aiment regarder des émissions de télévision
+215	108	VP Coordination (long)	fr	expected	le directeur a vingt trois ans et a vingt trois ans
+216	108	VP Coordination (long)	fr	unexpected	le directeur a vingt trois ans et ont vingt trois ans
+217	109	VP Coordination (long)	fr	expected	le directeur a vingt trois ans et préfère jouer au tennis avec des collègues
+218	109	VP Coordination (long)	fr	unexpected	le directeur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+219	110	VP Coordination (long)	fr	expected	le directeur a vingt trois ans et écrit dans un journal tous les jours
+220	110	VP Coordination (long)	fr	unexpected	le directeur a vingt trois ans et écrivent dans un journal tous les jours
+221	111	VP Coordination (long)	fr	expected	l' agriculteur a vingt trois ans et connaît beaucoup de langues étrangères
+222	111	VP Coordination (long)	fr	unexpected	l' agriculteur a vingt trois ans et connaissent beaucoup de langues étrangères
+223	112	VP Coordination (long)	fr	expected	l' agriculteur a vingt trois ans et aime regarder des émissions de télévision
+224	112	VP Coordination (long)	fr	unexpected	l' agriculteur a vingt trois ans et aiment regarder des émissions de télévision
+225	113	VP Coordination (long)	fr	expected	l' agriculteur a vingt trois ans et a vingt trois ans
+226	113	VP Coordination (long)	fr	unexpected	l' agriculteur a vingt trois ans et ont vingt trois ans
+227	114	VP Coordination (long)	fr	expected	l' agriculteur a vingt trois ans et préfère jouer au tennis avec des collègues
+228	114	VP Coordination (long)	fr	unexpected	l' agriculteur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+229	115	VP Coordination (long)	fr	expected	l' agriculteur a vingt trois ans et écrit dans un journal tous les jours
+230	115	VP Coordination (long)	fr	unexpected	l' agriculteur a vingt trois ans et écrivent dans un journal tous les jours
+231	116	VP Coordination (long)	fr	expected	le chirurgien a vingt trois ans et connaît beaucoup de langues étrangères
+232	116	VP Coordination (long)	fr	unexpected	le chirurgien a vingt trois ans et connaissent beaucoup de langues étrangères
+233	117	VP Coordination (long)	fr	expected	le chirurgien a vingt trois ans et aime regarder des émissions de télévision
+234	117	VP Coordination (long)	fr	unexpected	le chirurgien a vingt trois ans et aiment regarder des émissions de télévision
+235	118	VP Coordination (long)	fr	expected	le chirurgien a vingt trois ans et a vingt trois ans
+236	118	VP Coordination (long)	fr	unexpected	le chirurgien a vingt trois ans et ont vingt trois ans
+237	119	VP Coordination (long)	fr	expected	le chirurgien a vingt trois ans et préfère jouer au tennis avec des collègues
+238	119	VP Coordination (long)	fr	unexpected	le chirurgien a vingt trois ans et préfèrent jouer au tennis avec des collègues
+239	120	VP Coordination (long)	fr	expected	le chirurgien a vingt trois ans et écrit dans un journal tous les jours
+240	120	VP Coordination (long)	fr	unexpected	le chirurgien a vingt trois ans et écrivent dans un journal tous les jours
+241	121	VP Coordination (long)	fr	expected	le sénateur a vingt trois ans et connaît beaucoup de langues étrangères
+242	121	VP Coordination (long)	fr	unexpected	le sénateur a vingt trois ans et connaissent beaucoup de langues étrangères
+243	122	VP Coordination (long)	fr	expected	le sénateur a vingt trois ans et aime regarder des émissions de télévision
+244	122	VP Coordination (long)	fr	unexpected	le sénateur a vingt trois ans et aiment regarder des émissions de télévision
+245	123	VP Coordination (long)	fr	expected	le sénateur a vingt trois ans et a vingt trois ans
+246	123	VP Coordination (long)	fr	unexpected	le sénateur a vingt trois ans et ont vingt trois ans
+247	124	VP Coordination (long)	fr	expected	le sénateur a vingt trois ans et préfère jouer au tennis avec des collègues
+248	124	VP Coordination (long)	fr	unexpected	le sénateur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+249	125	VP Coordination (long)	fr	expected	le sénateur a vingt trois ans et écrit dans un journal tous les jours
+250	125	VP Coordination (long)	fr	unexpected	le sénateur a vingt trois ans et écrivent dans un journal tous les jours
+251	126	VP Coordination (long)	fr	expected	le professeur a vingt trois ans et connaît beaucoup de langues étrangères
+252	126	VP Coordination (long)	fr	unexpected	le professeur a vingt trois ans et connaissent beaucoup de langues étrangères
+253	127	VP Coordination (long)	fr	expected	le professeur a vingt trois ans et aime regarder des émissions de télévision
+254	127	VP Coordination (long)	fr	unexpected	le professeur a vingt trois ans et aiment regarder des émissions de télévision
+255	128	VP Coordination (long)	fr	expected	le professeur a vingt trois ans et a vingt trois ans
+256	128	VP Coordination (long)	fr	unexpected	le professeur a vingt trois ans et ont vingt trois ans
+257	129	VP Coordination (long)	fr	expected	le professeur a vingt trois ans et préfère jouer au tennis avec des collègues
+258	129	VP Coordination (long)	fr	unexpected	le professeur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+259	130	VP Coordination (long)	fr	expected	le professeur a vingt trois ans et écrit dans un journal tous les jours
+260	130	VP Coordination (long)	fr	unexpected	le professeur a vingt trois ans et écrivent dans un journal tous les jours
+261	131	VP Coordination (long)	fr	expected	le client a vingt trois ans et connaît beaucoup de langues étrangères
+262	131	VP Coordination (long)	fr	unexpected	le client a vingt trois ans et connaissent beaucoup de langues étrangères
+263	132	VP Coordination (long)	fr	expected	le client a vingt trois ans et aime regarder des émissions de télévision
+264	132	VP Coordination (long)	fr	unexpected	le client a vingt trois ans et aiment regarder des émissions de télévision
+265	133	VP Coordination (long)	fr	expected	le client a vingt trois ans et a vingt trois ans
+266	133	VP Coordination (long)	fr	unexpected	le client a vingt trois ans et ont vingt trois ans
+267	134	VP Coordination (long)	fr	expected	le client a vingt trois ans et préfère jouer au tennis avec des collègues
+268	134	VP Coordination (long)	fr	unexpected	le client a vingt trois ans et préfèrent jouer au tennis avec des collègues
+269	135	VP Coordination (long)	fr	expected	le client a vingt trois ans et écrit dans un journal tous les jours
+270	135	VP Coordination (long)	fr	unexpected	le client a vingt trois ans et écrivent dans un journal tous les jours
+271	136	VP Coordination (long)	fr	expected	l' officier a vingt trois ans et connaît beaucoup de langues étrangères
+272	136	VP Coordination (long)	fr	unexpected	l' officier a vingt trois ans et connaissent beaucoup de langues étrangères
+273	137	VP Coordination (long)	fr	expected	l' officier a vingt trois ans et aime regarder des émissions de télévision
+274	137	VP Coordination (long)	fr	unexpected	l' officier a vingt trois ans et aiment regarder des émissions de télévision
+275	138	VP Coordination (long)	fr	expected	l' officier a vingt trois ans et a vingt trois ans
+276	138	VP Coordination (long)	fr	unexpected	l' officier a vingt trois ans et ont vingt trois ans
+277	139	VP Coordination (long)	fr	expected	l' officier a vingt trois ans et préfère jouer au tennis avec des collègues
+278	139	VP Coordination (long)	fr	unexpected	l' officier a vingt trois ans et préfèrent jouer au tennis avec des collègues
+279	140	VP Coordination (long)	fr	expected	l' officier a vingt trois ans et écrit dans un journal tous les jours
+280	140	VP Coordination (long)	fr	unexpected	l' officier a vingt trois ans et écrivent dans un journal tous les jours
+281	141	VP Coordination (long)	fr	expected	le pilote a vingt trois ans et connaît beaucoup de langues étrangères
+282	141	VP Coordination (long)	fr	unexpected	le pilote a vingt trois ans et connaissent beaucoup de langues étrangères
+283	142	VP Coordination (long)	fr	expected	le pilote a vingt trois ans et aime regarder des émissions de télévision
+284	142	VP Coordination (long)	fr	unexpected	le pilote a vingt trois ans et aiment regarder des émissions de télévision
+285	143	VP Coordination (long)	fr	expected	le pilote a vingt trois ans et a vingt trois ans
+286	143	VP Coordination (long)	fr	unexpected	le pilote a vingt trois ans et ont vingt trois ans
+287	144	VP Coordination (long)	fr	expected	le pilote a vingt trois ans et préfère jouer au tennis avec des collègues
+288	144	VP Coordination (long)	fr	unexpected	le pilote a vingt trois ans et préfèrent jouer au tennis avec des collègues
+289	145	VP Coordination (long)	fr	expected	le pilote a vingt trois ans et écrit dans un journal tous les jours
+290	145	VP Coordination (long)	fr	unexpected	le pilote a vingt trois ans et écrivent dans un journal tous les jours
+291	146	VP Coordination (long)	fr	expected	le consultant a vingt trois ans et connaît beaucoup de langues étrangères
+292	146	VP Coordination (long)	fr	unexpected	le consultant a vingt trois ans et connaissent beaucoup de langues étrangères
+293	147	VP Coordination (long)	fr	expected	le consultant a vingt trois ans et aime regarder des émissions de télévision
+294	147	VP Coordination (long)	fr	unexpected	le consultant a vingt trois ans et aiment regarder des émissions de télévision
+295	148	VP Coordination (long)	fr	expected	le consultant a vingt trois ans et a vingt trois ans
+296	148	VP Coordination (long)	fr	unexpected	le consultant a vingt trois ans et ont vingt trois ans
+297	149	VP Coordination (long)	fr	expected	le consultant a vingt trois ans et préfère jouer au tennis avec des collègues
+298	149	VP Coordination (long)	fr	unexpected	le consultant a vingt trois ans et préfèrent jouer au tennis avec des collègues
+299	150	VP Coordination (long)	fr	expected	le consultant a vingt trois ans et écrit dans un journal tous les jours
+300	150	VP Coordination (long)	fr	unexpected	le consultant a vingt trois ans et écrivent dans un journal tous les jours
+301	151	VP Coordination (long)	fr	expected	l' auteur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+302	151	VP Coordination (long)	fr	unexpected	l' auteur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+303	152	VP Coordination (long)	fr	expected	l' auteur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+304	152	VP Coordination (long)	fr	unexpected	l' auteur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+305	153	VP Coordination (long)	fr	expected	l' auteur préfère jouer au tennis avec des collègues et a vingt trois ans
+306	153	VP Coordination (long)	fr	unexpected	l' auteur préfère jouer au tennis avec des collègues et ont vingt trois ans
+307	154	VP Coordination (long)	fr	expected	l' auteur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+308	154	VP Coordination (long)	fr	unexpected	l' auteur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+309	155	VP Coordination (long)	fr	expected	l' auteur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+310	155	VP Coordination (long)	fr	unexpected	l' auteur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+311	156	VP Coordination (long)	fr	expected	le directeur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+312	156	VP Coordination (long)	fr	unexpected	le directeur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+313	157	VP Coordination (long)	fr	expected	le directeur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+314	157	VP Coordination (long)	fr	unexpected	le directeur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+315	158	VP Coordination (long)	fr	expected	le directeur préfère jouer au tennis avec des collègues et a vingt trois ans
+316	158	VP Coordination (long)	fr	unexpected	le directeur préfère jouer au tennis avec des collègues et ont vingt trois ans
+317	159	VP Coordination (long)	fr	expected	le directeur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+318	159	VP Coordination (long)	fr	unexpected	le directeur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+319	160	VP Coordination (long)	fr	expected	le directeur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+320	160	VP Coordination (long)	fr	unexpected	le directeur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+321	161	VP Coordination (long)	fr	expected	l' agriculteur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+322	161	VP Coordination (long)	fr	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+323	162	VP Coordination (long)	fr	expected	l' agriculteur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+324	162	VP Coordination (long)	fr	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+325	163	VP Coordination (long)	fr	expected	l' agriculteur préfère jouer au tennis avec des collègues et a vingt trois ans
+326	163	VP Coordination (long)	fr	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et ont vingt trois ans
+327	164	VP Coordination (long)	fr	expected	l' agriculteur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+328	164	VP Coordination (long)	fr	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+329	165	VP Coordination (long)	fr	expected	l' agriculteur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+330	165	VP Coordination (long)	fr	unexpected	l' agriculteur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+331	166	VP Coordination (long)	fr	expected	le chirurgien préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+332	166	VP Coordination (long)	fr	unexpected	le chirurgien préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+333	167	VP Coordination (long)	fr	expected	le chirurgien préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+334	167	VP Coordination (long)	fr	unexpected	le chirurgien préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+335	168	VP Coordination (long)	fr	expected	le chirurgien préfère jouer au tennis avec des collègues et a vingt trois ans
+336	168	VP Coordination (long)	fr	unexpected	le chirurgien préfère jouer au tennis avec des collègues et ont vingt trois ans
+337	169	VP Coordination (long)	fr	expected	le chirurgien préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+338	169	VP Coordination (long)	fr	unexpected	le chirurgien préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+339	170	VP Coordination (long)	fr	expected	le chirurgien préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+340	170	VP Coordination (long)	fr	unexpected	le chirurgien préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+341	171	VP Coordination (long)	fr	expected	le sénateur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+342	171	VP Coordination (long)	fr	unexpected	le sénateur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+343	172	VP Coordination (long)	fr	expected	le sénateur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+344	172	VP Coordination (long)	fr	unexpected	le sénateur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+345	173	VP Coordination (long)	fr	expected	le sénateur préfère jouer au tennis avec des collègues et a vingt trois ans
+346	173	VP Coordination (long)	fr	unexpected	le sénateur préfère jouer au tennis avec des collègues et ont vingt trois ans
+347	174	VP Coordination (long)	fr	expected	le sénateur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+348	174	VP Coordination (long)	fr	unexpected	le sénateur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+349	175	VP Coordination (long)	fr	expected	le sénateur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+350	175	VP Coordination (long)	fr	unexpected	le sénateur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+351	176	VP Coordination (long)	fr	expected	le professeur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+352	176	VP Coordination (long)	fr	unexpected	le professeur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+353	177	VP Coordination (long)	fr	expected	le professeur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+354	177	VP Coordination (long)	fr	unexpected	le professeur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+355	178	VP Coordination (long)	fr	expected	le professeur préfère jouer au tennis avec des collègues et a vingt trois ans
+356	178	VP Coordination (long)	fr	unexpected	le professeur préfère jouer au tennis avec des collègues et ont vingt trois ans
+357	179	VP Coordination (long)	fr	expected	le professeur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+358	179	VP Coordination (long)	fr	unexpected	le professeur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+359	180	VP Coordination (long)	fr	expected	le professeur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+360	180	VP Coordination (long)	fr	unexpected	le professeur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+361	181	VP Coordination (long)	fr	expected	le client préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+362	181	VP Coordination (long)	fr	unexpected	le client préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+363	182	VP Coordination (long)	fr	expected	le client préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+364	182	VP Coordination (long)	fr	unexpected	le client préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+365	183	VP Coordination (long)	fr	expected	le client préfère jouer au tennis avec des collègues et a vingt trois ans
+366	183	VP Coordination (long)	fr	unexpected	le client préfère jouer au tennis avec des collègues et ont vingt trois ans
+367	184	VP Coordination (long)	fr	expected	le client préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+368	184	VP Coordination (long)	fr	unexpected	le client préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+369	185	VP Coordination (long)	fr	expected	le client préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+370	185	VP Coordination (long)	fr	unexpected	le client préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+371	186	VP Coordination (long)	fr	expected	l' officier préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+372	186	VP Coordination (long)	fr	unexpected	l' officier préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+373	187	VP Coordination (long)	fr	expected	l' officier préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+374	187	VP Coordination (long)	fr	unexpected	l' officier préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+375	188	VP Coordination (long)	fr	expected	l' officier préfère jouer au tennis avec des collègues et a vingt trois ans
+376	188	VP Coordination (long)	fr	unexpected	l' officier préfère jouer au tennis avec des collègues et ont vingt trois ans
+377	189	VP Coordination (long)	fr	expected	l' officier préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+378	189	VP Coordination (long)	fr	unexpected	l' officier préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+379	190	VP Coordination (long)	fr	expected	l' officier préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+380	190	VP Coordination (long)	fr	unexpected	l' officier préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+381	191	VP Coordination (long)	fr	expected	le pilote préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+382	191	VP Coordination (long)	fr	unexpected	le pilote préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+383	192	VP Coordination (long)	fr	expected	le pilote préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+384	192	VP Coordination (long)	fr	unexpected	le pilote préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+385	193	VP Coordination (long)	fr	expected	le pilote préfère jouer au tennis avec des collègues et a vingt trois ans
+386	193	VP Coordination (long)	fr	unexpected	le pilote préfère jouer au tennis avec des collègues et ont vingt trois ans
+387	194	VP Coordination (long)	fr	expected	le pilote préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+388	194	VP Coordination (long)	fr	unexpected	le pilote préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+389	195	VP Coordination (long)	fr	expected	le pilote préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+390	195	VP Coordination (long)	fr	unexpected	le pilote préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+391	196	VP Coordination (long)	fr	expected	le consultant préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+392	196	VP Coordination (long)	fr	unexpected	le consultant préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+393	197	VP Coordination (long)	fr	expected	le consultant préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+394	197	VP Coordination (long)	fr	unexpected	le consultant préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+395	198	VP Coordination (long)	fr	expected	le consultant préfère jouer au tennis avec des collègues et a vingt trois ans
+396	198	VP Coordination (long)	fr	unexpected	le consultant préfère jouer au tennis avec des collègues et ont vingt trois ans
+397	199	VP Coordination (long)	fr	expected	le consultant préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+398	199	VP Coordination (long)	fr	unexpected	le consultant préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+399	200	VP Coordination (long)	fr	expected	le consultant préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+400	200	VP Coordination (long)	fr	unexpected	le consultant préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+401	201	VP Coordination (long)	fr	expected	l' auteur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+402	201	VP Coordination (long)	fr	unexpected	l' auteur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+403	202	VP Coordination (long)	fr	expected	l' auteur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+404	202	VP Coordination (long)	fr	unexpected	l' auteur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+405	203	VP Coordination (long)	fr	expected	l' auteur écrit dans un journal tous les jours et a vingt trois ans
+406	203	VP Coordination (long)	fr	unexpected	l' auteur écrit dans un journal tous les jours et ont vingt trois ans
+407	204	VP Coordination (long)	fr	expected	l' auteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+408	204	VP Coordination (long)	fr	unexpected	l' auteur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+409	205	VP Coordination (long)	fr	expected	l' auteur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+410	205	VP Coordination (long)	fr	unexpected	l' auteur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+411	206	VP Coordination (long)	fr	expected	le directeur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+412	206	VP Coordination (long)	fr	unexpected	le directeur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+413	207	VP Coordination (long)	fr	expected	le directeur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+414	207	VP Coordination (long)	fr	unexpected	le directeur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+415	208	VP Coordination (long)	fr	expected	le directeur écrit dans un journal tous les jours et a vingt trois ans
+416	208	VP Coordination (long)	fr	unexpected	le directeur écrit dans un journal tous les jours et ont vingt trois ans
+417	209	VP Coordination (long)	fr	expected	le directeur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+418	209	VP Coordination (long)	fr	unexpected	le directeur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+419	210	VP Coordination (long)	fr	expected	le directeur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+420	210	VP Coordination (long)	fr	unexpected	le directeur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+421	211	VP Coordination (long)	fr	expected	l' agriculteur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+422	211	VP Coordination (long)	fr	unexpected	l' agriculteur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+423	212	VP Coordination (long)	fr	expected	l' agriculteur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+424	212	VP Coordination (long)	fr	unexpected	l' agriculteur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+425	213	VP Coordination (long)	fr	expected	l' agriculteur écrit dans un journal tous les jours et a vingt trois ans
+426	213	VP Coordination (long)	fr	unexpected	l' agriculteur écrit dans un journal tous les jours et ont vingt trois ans
+427	214	VP Coordination (long)	fr	expected	l' agriculteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+428	214	VP Coordination (long)	fr	unexpected	l' agriculteur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+429	215	VP Coordination (long)	fr	expected	l' agriculteur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+430	215	VP Coordination (long)	fr	unexpected	l' agriculteur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+431	216	VP Coordination (long)	fr	expected	le chirurgien écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+432	216	VP Coordination (long)	fr	unexpected	le chirurgien écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+433	217	VP Coordination (long)	fr	expected	le chirurgien écrit dans un journal tous les jours et aime regarder des émissions de télévision
+434	217	VP Coordination (long)	fr	unexpected	le chirurgien écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+435	218	VP Coordination (long)	fr	expected	le chirurgien écrit dans un journal tous les jours et a vingt trois ans
+436	218	VP Coordination (long)	fr	unexpected	le chirurgien écrit dans un journal tous les jours et ont vingt trois ans
+437	219	VP Coordination (long)	fr	expected	le chirurgien écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+438	219	VP Coordination (long)	fr	unexpected	le chirurgien écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+439	220	VP Coordination (long)	fr	expected	le chirurgien écrit dans un journal tous les jours et écrit dans un journal tous les jours
+440	220	VP Coordination (long)	fr	unexpected	le chirurgien écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+441	221	VP Coordination (long)	fr	expected	le sénateur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+442	221	VP Coordination (long)	fr	unexpected	le sénateur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+443	222	VP Coordination (long)	fr	expected	le sénateur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+444	222	VP Coordination (long)	fr	unexpected	le sénateur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+445	223	VP Coordination (long)	fr	expected	le sénateur écrit dans un journal tous les jours et a vingt trois ans
+446	223	VP Coordination (long)	fr	unexpected	le sénateur écrit dans un journal tous les jours et ont vingt trois ans
+447	224	VP Coordination (long)	fr	expected	le sénateur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+448	224	VP Coordination (long)	fr	unexpected	le sénateur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+449	225	VP Coordination (long)	fr	expected	le sénateur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+450	225	VP Coordination (long)	fr	unexpected	le sénateur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+451	226	VP Coordination (long)	fr	expected	le professeur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+452	226	VP Coordination (long)	fr	unexpected	le professeur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+453	227	VP Coordination (long)	fr	expected	le professeur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+454	227	VP Coordination (long)	fr	unexpected	le professeur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+455	228	VP Coordination (long)	fr	expected	le professeur écrit dans un journal tous les jours et a vingt trois ans
+456	228	VP Coordination (long)	fr	unexpected	le professeur écrit dans un journal tous les jours et ont vingt trois ans
+457	229	VP Coordination (long)	fr	expected	le professeur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+458	229	VP Coordination (long)	fr	unexpected	le professeur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+459	230	VP Coordination (long)	fr	expected	le professeur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+460	230	VP Coordination (long)	fr	unexpected	le professeur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+461	231	VP Coordination (long)	fr	expected	le client écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+462	231	VP Coordination (long)	fr	unexpected	le client écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+463	232	VP Coordination (long)	fr	expected	le client écrit dans un journal tous les jours et aime regarder des émissions de télévision
+464	232	VP Coordination (long)	fr	unexpected	le client écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+465	233	VP Coordination (long)	fr	expected	le client écrit dans un journal tous les jours et a vingt trois ans
+466	233	VP Coordination (long)	fr	unexpected	le client écrit dans un journal tous les jours et ont vingt trois ans
+467	234	VP Coordination (long)	fr	expected	le client écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+468	234	VP Coordination (long)	fr	unexpected	le client écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+469	235	VP Coordination (long)	fr	expected	le client écrit dans un journal tous les jours et écrit dans un journal tous les jours
+470	235	VP Coordination (long)	fr	unexpected	le client écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+471	236	VP Coordination (long)	fr	expected	l' officier écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+472	236	VP Coordination (long)	fr	unexpected	l' officier écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+473	237	VP Coordination (long)	fr	expected	l' officier écrit dans un journal tous les jours et aime regarder des émissions de télévision
+474	237	VP Coordination (long)	fr	unexpected	l' officier écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+475	238	VP Coordination (long)	fr	expected	l' officier écrit dans un journal tous les jours et a vingt trois ans
+476	238	VP Coordination (long)	fr	unexpected	l' officier écrit dans un journal tous les jours et ont vingt trois ans
+477	239	VP Coordination (long)	fr	expected	l' officier écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+478	239	VP Coordination (long)	fr	unexpected	l' officier écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+479	240	VP Coordination (long)	fr	expected	l' officier écrit dans un journal tous les jours et écrit dans un journal tous les jours
+480	240	VP Coordination (long)	fr	unexpected	l' officier écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+481	241	VP Coordination (long)	fr	expected	le pilote écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+482	241	VP Coordination (long)	fr	unexpected	le pilote écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+483	242	VP Coordination (long)	fr	expected	le pilote écrit dans un journal tous les jours et aime regarder des émissions de télévision
+484	242	VP Coordination (long)	fr	unexpected	le pilote écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+485	243	VP Coordination (long)	fr	expected	le pilote écrit dans un journal tous les jours et a vingt trois ans
+486	243	VP Coordination (long)	fr	unexpected	le pilote écrit dans un journal tous les jours et ont vingt trois ans
+487	244	VP Coordination (long)	fr	expected	le pilote écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+488	244	VP Coordination (long)	fr	unexpected	le pilote écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+489	245	VP Coordination (long)	fr	expected	le pilote écrit dans un journal tous les jours et écrit dans un journal tous les jours
+490	245	VP Coordination (long)	fr	unexpected	le pilote écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+491	246	VP Coordination (long)	fr	expected	le consultant écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+492	246	VP Coordination (long)	fr	unexpected	le consultant écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+493	247	VP Coordination (long)	fr	expected	le consultant écrit dans un journal tous les jours et aime regarder des émissions de télévision
+494	247	VP Coordination (long)	fr	unexpected	le consultant écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+495	248	VP Coordination (long)	fr	expected	le consultant écrit dans un journal tous les jours et a vingt trois ans
+496	248	VP Coordination (long)	fr	unexpected	le consultant écrit dans un journal tous les jours et ont vingt trois ans
+497	249	VP Coordination (long)	fr	expected	le consultant écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+498	249	VP Coordination (long)	fr	unexpected	le consultant écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+499	250	VP Coordination (long)	fr	expected	le consultant écrit dans un journal tous les jours et écrit dans un journal tous les jours
+500	250	VP Coordination (long)	fr	unexpected	le consultant écrit dans un journal tous les jours et écrivent dans un journal tous les jours
