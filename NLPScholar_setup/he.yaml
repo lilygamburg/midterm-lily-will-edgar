@@ -1,0 +1,21 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_masked_model:
+      - bert-base-multilingual-cased
+    
+predfpath: /home/esuritis/NLP/predictionsHE.tsv
+
+datafpath: /home/esuritis/NLP/min_pair_sentences/he.tsv
+
+resultsfpath: /home/esuritis/NLP/resultsHE.tsv
+
+save: by_pair, by_cond
+
+conditions: construction
+
+device: cuda
