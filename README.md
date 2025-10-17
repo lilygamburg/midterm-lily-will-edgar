@@ -10,9 +10,7 @@ Links to Components of the Project:
 [CLAMS Dataset](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/clams.zip)
 
 * Data Files (.tsv) Passed into NLPScholar:
-[Minimum Pair Sentneces](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/min_pair_sentences.zip)
-
-[Code to Produce Sentences](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/produce_min_pair_sentences.py)
+[Minimum Pair Sentneces](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/min_pair_sentences.zip)    [Code to Produce Sentences](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/produce_min_pair_sentences.py)
 
 
 - Data Set file (.tsv)
