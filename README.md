@@ -11,7 +11,7 @@ Links to Components of the Project:
 
 * Data Files (.tsv) Passed into NLPScholar:
   [Minimum Pairs](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/min_pair_sentences.zip)
-  [Code to Produce Sentences](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/produce_min_pair_sentences.py)
+  and [Code to Produce Sentences](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/produce_min_pair_sentences.py)
 
 
 - Data Set file (.tsv)
