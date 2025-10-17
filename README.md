@@ -18,7 +18,7 @@ Links to Components of the Project:
 
 * Results By Language:
 
-&nbsp;[German](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/DE.zip)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[German](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/DE.zip)
 
 &nbsp;[English](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/EN.zip)
 
