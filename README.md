@@ -13,12 +13,24 @@ Links to Components of the Project:
   [Minimum Pairs](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/min_pair_sentences.zip)
   and [Code to Produce Sentences](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/produce_min_pair_sentences.py)
 
+* Configuration (.yaml) Files
+  [Config Files by Language](https://github.com/lilygamburg/midterm-lily-will-edgar/tree/main/NLPScholar_setup)
 
-- Data Set file (.tsv)
-- minimal-pair configs (.yaml)
-- predictions (.tsv)
-- results (.tsv)
-- python script to create data set
-- LaTeX paper
-- overall results graph
-- overall results table 
+* Results By Language:
+
+[German](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/DE.zip)
+
+[English](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/EN.zip)
+
+[French](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/FR.zip)
+
+[Hebrew](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/HE.zip)
+
+[Russian](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/RU.zip)
+
+
+
+* Graph Analyzing Relationship Between Average Accuracy (by Language) and Morphological Complexity:
+  [Graph](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/AverageAccuracyvsMorphpologicalComplexity.png) and [Code to Create](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/graph_creation.py)
+
+* RESULTS TABLES - NEED TO BE ADDED TO GITHUB
