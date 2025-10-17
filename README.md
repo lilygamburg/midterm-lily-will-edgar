@@ -18,15 +18,15 @@ Links to Components of the Project:
 
 * Results By Language:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[German](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/DE.zip)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[German](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/DE.zip)
 
-&nbsp;[English](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/EN.zip)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[English](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/EN.zip)
 
-&nbsp;[French](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/FR.zip)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[French](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/FR.zip)
 
-&nbsp;[Hebrew](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/HE.zip)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hebrew](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/HE.zip)
 
-&nbsp;[Russian](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/RU.zip)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Russian](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/RU.zip)
 
 
 
