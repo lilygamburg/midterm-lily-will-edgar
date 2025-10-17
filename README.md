@@ -7,11 +7,12 @@ Utilizing [NLPScholar](https://github.com/forrestdavis/NLPScholar/tree/main), we
 Links to Components of the Project:
 
 * Original dataset used in Mueller et al.
-[clams dataset](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/clams.zip)
+[CLAMS Dataset](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/clams.zip)
 
 * Data Files (.tsv) Passed into NLPScholar:
-[min_pair sentences](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/min_pair_sentences.zip)
-[code to produce sentneces](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/produce_min_pair_sentences.py)
+[Minimum Pair Sentneces](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/min_pair_sentences.zip)
+
+[Code to Produce Sentences](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/produce_min_pair_sentences.py)
 
 
 - Data Set file (.tsv)
