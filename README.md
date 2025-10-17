@@ -1,5 +1,5 @@
 # midterm-lily-will-edgar
-Replicating Mueller et al paper
+Utilizing [NLPScholar](https://github.com/forrestdavis/NLPScholar/tree/main), we are replicating the results of [Cross-Linguistic Syntactic Evaluation of Word Prediction Models](https://aclanthology.org/2020.acl-main.490.pdf), by Mueller et al.
 - Data Set file (.tsv)
 - minimal-pair configs (.yaml)
 - predictions (.tsv)
