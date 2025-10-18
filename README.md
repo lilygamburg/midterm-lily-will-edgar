@@ -1,6 +1,6 @@
 # midterm-lily-will-edgar
 
-[Investigating Syntax Evaluation Across Language](LINK TO THE PAPER) by Lily Gamburg, William Johnson, and Edgar Suritis.
+[Investigating Syntax Evaluation Across Languages](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/William_Edgar_Lily_Midterm_Replication.pdf) by Lily Gamburg, William Johnson, and Edgar Suritis.
 
 Utilizing [NLPScholar](https://github.com/forrestdavis/NLPScholar/tree/main), we are replicating the results of [Cross-Linguistic Syntactic Evaluation of Word Prediction Models](https://aclanthology.org/2020.acl-main.490.pdf), by Mueller et al.
 
