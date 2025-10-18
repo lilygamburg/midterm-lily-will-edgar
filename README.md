@@ -34,5 +34,5 @@ Links to Components of the Project:
   [Graph](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/AverageAccuracyvsMorphpologicalComplexity.png) and [Code to Create](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/graph_creation.py)
 
 * Tables Analyzing Accuracy of BERT and mBERT models on various languages:
-   [Table 1](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/mBERT%20by%20language.png)
-   [Table 2](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/mBERT%20vs%20BERT%20English.png)
+   [Table 1](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/mBERT%20vs%20BERT%20English.png)
+   [Table 2](https://github.com/lilygamburg/midterm-lily-will-edgar/blob/main/Results/mBERT%20by%20language.png)
